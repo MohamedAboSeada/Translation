@@ -1,9 +1,8 @@
 export async function getTranslation(translateText, from, to) {
 	const apiEndpoint = "https://api.mymemory.translated.net/get";
 	const params = new URLSearchParams({
-		q: translateText, // Fixed: Use `translateText` instead of `translatedText`
+		q: translateText,
 		langpair: `${from}|${to}`,
-		key: import.meta.env.APP_API_KEY,
 	}).toString();
 
 	const res = await fetch(`${apiEndpoint}?${params}`);
