@@ -1,0 +1,22 @@
+[
+  { "label": "English", "value": "en" },
+  { "label": "Arabic", "value": "ar" },
+  { "label": "Spanish", "value": "es" },
+  { "label": "French", "value": "fr" },
+  { "label": "German", "value": "de" },
+  { "label": "Chinese (Simplified)", "value": "zh-CN" },
+  { "label": "Japanese", "value": "ja" },
+  { "label": "Russian", "value": "ru" },
+  { "label": "Portuguese", "value": "pt" },
+  { "label": "Hindi", "value": "hi" },
+  { "label": "Italian", "value": "it" },
+  { "label": "Korean", "value": "ko" },
+  { "label": "Turkish", "value": "tr" },
+  { "label": "Dutch", "value": "nl" },
+  { "label": "Polish", "value": "pl" },
+  { "label": "Vietnamese", "value": "vi" },
+  { "label": "Thai", "value": "th" },
+  { "label": "Greek", "value": "el" },
+  { "label": "Swedish", "value": "sv" },
+  { "label": "Hebrew", "value": "he" }
+]
